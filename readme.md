@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🎓 4th-year B.Tech student in Computer Science and Engineering (CSE).<br>  
+🎓 4th-year B.Tech student in Artifiial Intelligence and DataScience.<br>  
 💻 Passionate about Full Stack Development using the MERN stack.<br>  
 🌐 Experienced in React, Node.js, MongoDB, and Three.js.<br>  
 📊 Solved 500+ problems on platforms like [LeetCode](https://leetcode.com/u/sanjeetkumar88/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/sanjeetv1s8x/).<br>  
